@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/question_header.png</file>
+        <file>images/a_button.png</file>
+        <file>images/a_button_enabled.png</file>
+        <file>images/a_button_right.png</file>
+        <file>images/b_button.png</file>
+        <file>images/b_button_enabled.png</file>
+        <file>images/b_button_right.png</file>
+        <file>images/c_button.png</file>
+        <file>images/c_button_enabled.png</file>
+        <file>images/c_button_right.png</file>
+        <file>images/d_button.png</file>
+        <file>images/d_button_enabled.png</file>
+        <file>images/d_button_right.png</file>
+        <file>font/open-sans.ttf</file>
+        <file>images/start_button.png</file>
+        <file>images/start_button_enabled.png</file>
+        <file>images/moneytree.png</file>
+        <file>images/counter_gem.png</file>
+        <file>images/counter_select.png</file>
+        <file>images/game_background.png</file>
+        <file>images/main_background.png</file>
+        <file>images/money_label.png</file>
+        <file>images/quit.png</file>
+    </qresource>
+</RCC>
